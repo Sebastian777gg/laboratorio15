@@ -1,0 +1,98 @@
+body { 
+    background-color: #FEFAE0;
+    color: #000000;
+    font-family: Arial, sans-serif;
+ }
+ h1 { 
+    color: #000000;
+ }
+ h2 { color: #000000; }
+
+header {
+    background-color: #5B99C2; 
+    top: 0;
+    width: 100%;
+    padding: 0.1em;
+    border-radius: 20px;
+}
+nav, a, ul, li {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0.5em;
+    text-align: center;
+    text-decoration: underline ;
+}
+
+#nav-list {
+    list-style-type: none;
+    display: flex;
+    gap: 20px;
+    margin: 0;
+    padding: 0;
+    text-align: center ;
+}
+
+a {
+    color: #000000  ;
+    text-decoration: solid;
+} 
+
+a:hover { 
+color: #825B32;
+ } 
+
+ #imgyamaha{
+    align-items: center;
+    height: 40%;
+    width: 35%;
+    background-color: #5B99C2;
+    display: block;
+    margin: auto;
+
+ }
+ 
+ #home{
+    height: 20vh;
+    background-color: #5B99C2;
+    text-align: left;
+    border-radius: 20px;
+    margin: 5ex;
+    padding: 0.5em;
+}
+
+#about{
+    height: 20vh;
+    background-color: #5B99C2;
+    text-align: left;
+    border-radius: 20px;
+    margin: 5ex;
+    padding: 0.5em;
+}
+
+#top1{
+    height: 20vh;
+    background-color: #5B99C2;
+    text-align: left;
+    border-radius: 20px;
+    margin: 5ex;
+    padding: 0.5em;
+}
+
+#top2{
+    height: 20vh;
+    background-color: #5B99C2;
+    text-align: left;
+    border-radius: 20px;
+    margin: 5ex;
+    padding: 0.5em;
+}
+
+#top3{
+    height: 20vh;
+    background-color: #5B99C2;
+    text-align: left;
+    border-radius: 20px;
+    margin: 5ex;
+    padding: 0.5em;
+}
